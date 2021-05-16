@@ -9,6 +9,6 @@ entries:
     name: wildcard-dns
     type: application
     urls:
-    - https://lab-in-a-box.github.io/helm-chart/wildcard-dns-0.1.0.tgz
+    - https://lab-in-a-box.github.io/lab-in-a-box/wildcard-dns-0.1.0.tgz
     version: 0.1.0
 generated: "2021-05-16T06:38:50.489225-07:00"
